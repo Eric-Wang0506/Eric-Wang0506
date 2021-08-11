@@ -2,7 +2,7 @@
 
 ### I am  middle school student in ChangZhou.
 
-![Eric-Wang0506's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Wang0506&show_icons=true&theme=radical)
+![Eric-Wang0506's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric-Wang0506&show_icons=tru&theme=tokyonight)
 
 ### What I am making:[String-encryption-and-decryption-program](https://github.com/Eric-Wang0506/String-encryption-and-decryption-program)
 
