@@ -12,4 +12,4 @@
 ### [This is my Luogu account](https://www.luogu.com.cn/user/408086)
 
 
-![](https://luogu.vercel.app/api?id=408086)
+![](https://luogu.wao3.cn/api/practice?id=408086)
